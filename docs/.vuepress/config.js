@@ -9,7 +9,7 @@ module.exports = {
     logo: '/logo.png',
     nav: [
       { text: 'Web3Modal-Vue Tutorial', link: '/web3modal-vue-tutorial/' },
-      { text: 'Related Tutorials', link: '/web3modal-vue-tutorial/related' }
+      // { text: 'Related Tutorials', link: '/web3modal-vue-tutorial/related' }
     ],
     sidebar: [
 
@@ -20,13 +20,13 @@ module.exports = {
           ['/web3modal-vue-tutorial/Contents', 'Contents'],
         ]
       },
-      {
-        title: 'Related',
-        collapsable: false,
-        children: [
-          ['/web3modal-vue-tutorial/Related','Related']
-        ]
-      }
+      // {
+      //   title: 'Related',
+      //   collapsable: false,
+      //   children: [
+      //     ['/web3modal-vue-tutorial/Related','Related']
+      //   ]
+      // }
     ]
   }
 };

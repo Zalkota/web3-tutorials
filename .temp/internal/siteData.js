@@ -25,6 +25,80 @@ export const siteData = {
       "path": "/"
     },
     {
+      "title": "Mercenary - BlockForge Documentation",
+      "frontmatter": {
+        "title": "Mercenary - BlockForge Documentation",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/web3modal-vue-tutorial/Mercenary.html",
+      "relativePath": "web3modal-vue-tutorial/Mercenary.md",
+      "key": "v-53a82396",
+      "path": "/web3modal-vue-tutorial/Mercenary.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Defending",
+          "slug": "defending"
+        },
+        {
+          "level": 2,
+          "title": "Plot Owner Bounty",
+          "slug": "plot-owner-bounty"
+        }
+      ]
+    },
+    {
+      "title": "NPCs - BlockForge Documentation",
+      "frontmatter": {
+        "title": "NPCs - BlockForge Documentation",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/web3modal-vue-tutorial/NPCs.html",
+      "relativePath": "web3modal-vue-tutorial/NPCs.md",
+      "key": "v-799d5920",
+      "path": "/web3modal-vue-tutorial/NPCs.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "BlockForge Spawn",
+          "slug": "blockforge-spawn"
+        }
+      ]
+    },
+    {
+      "title": "Links - BlockForge Documentation",
+      "frontmatter": {
+        "title": "Links - BlockForge Documentation",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/web3modal-vue-tutorial/OfficialLinks.html",
+      "relativePath": "web3modal-vue-tutorial/OfficialLinks.md",
+      "key": "v-573d9234",
+      "path": "/web3modal-vue-tutorial/OfficialLinks.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Common Links",
+          "slug": "common-links"
+        },
+        {
+          "level": 2,
+          "title": "Token Links",
+          "slug": "token-links"
+        },
+        {
+          "level": 2,
+          "title": "Battle Pass Links",
+          "slug": "battle-pass-links"
+        },
+        {
+          "level": 2,
+          "title": "Plot Links",
+          "slug": "plot-links"
+        }
+      ]
+    },
+    {
       "title": "WebModal-Vue Tutorial",
       "frontmatter": {
         "title": "WebModal-Vue Tutorial",
@@ -74,6 +148,11 @@ export const siteData = {
           "level": 3,
           "title": "Description",
           "slug": "description"
+        },
+        {
+          "level": 2,
+          "title": "Step 6 – Try Connecting Web3 Wallet",
+          "slug": "step-6-try-connecting-web3-wallet"
         }
       ]
     },
@@ -106,80 +185,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "NPCs - BlockForge Documentation",
-      "frontmatter": {
-        "title": "NPCs - BlockForge Documentation",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/web3modal-vue-tutorial/NPCs.html",
-      "relativePath": "web3modal-vue-tutorial/NPCs.md",
-      "key": "v-799d5920",
-      "path": "/web3modal-vue-tutorial/NPCs.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "BlockForge Spawn",
-          "slug": "blockforge-spawn"
-        }
-      ]
-    },
-    {
-      "title": "Mercenary - BlockForge Documentation",
-      "frontmatter": {
-        "title": "Mercenary - BlockForge Documentation",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/web3modal-vue-tutorial/Mercenary.html",
-      "relativePath": "web3modal-vue-tutorial/Mercenary.md",
-      "key": "v-53a82396",
-      "path": "/web3modal-vue-tutorial/Mercenary.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Defending",
-          "slug": "defending"
-        },
-        {
-          "level": 2,
-          "title": "Plot Owner Bounty",
-          "slug": "plot-owner-bounty"
-        }
-      ]
-    },
-    {
-      "title": "Links - BlockForge Documentation",
-      "frontmatter": {
-        "title": "Links - BlockForge Documentation",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/web3modal-vue-tutorial/OfficialLinks.html",
-      "relativePath": "web3modal-vue-tutorial/OfficialLinks.md",
-      "key": "v-573d9234",
-      "path": "/web3modal-vue-tutorial/OfficialLinks.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Common Links",
-          "slug": "common-links"
-        },
-        {
-          "level": 2,
-          "title": "Token Links",
-          "slug": "token-links"
-        },
-        {
-          "level": 2,
-          "title": "Battle Pass Links",
-          "slug": "battle-pass-links"
-        },
-        {
-          "level": 2,
-          "title": "Plot Links",
-          "slug": "plot-links"
-        }
-      ]
-    },
-    {
       "title": "Renting Plots - BlockForge Documentation",
       "frontmatter": {
         "title": "Renting Plots - BlockForge Documentation",
@@ -201,17 +206,6 @@ export const siteData = {
           "slug": "minimum-renting-duration"
         }
       ]
-    },
-    {
-      "title": "Roadmap - BlockForge Documentation",
-      "frontmatter": {
-        "title": "Roadmap - BlockForge Documentation",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/web3modal-vue-tutorial/Project_Timeline.html",
-      "relativePath": "web3modal-vue-tutorial/Project_Timeline.md",
-      "key": "v-39e8b6c0",
-      "path": "/web3modal-vue-tutorial/Project_Timeline.html"
     },
     {
       "title": "Staking Plots - BlockForge Documentation",
@@ -237,32 +231,15 @@ export const siteData = {
       ]
     },
     {
-      "title": "Arenas - BlockForge Documentation",
+      "title": "Roadmap - BlockForge Documentation",
       "frontmatter": {
-        "title": "Arenas - BlockForge Documentation",
+        "title": "Roadmap - BlockForge Documentation",
         "pageClass": "content-page-class-general"
       },
-      "regularPath": "/web3modal-vue-tutorial/Related.html",
-      "relativePath": "web3modal-vue-tutorial/Related.md",
-      "key": "v-85510128",
-      "path": "/web3modal-vue-tutorial/Related.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Resource Arena",
-          "slug": "resource-arena"
-        },
-        {
-          "level": 2,
-          "title": "Duel Arena",
-          "slug": "duel-arena"
-        },
-        {
-          "level": 2,
-          "title": "Quest Arena",
-          "slug": "quest-arena"
-        }
-      ]
+      "regularPath": "/web3modal-vue-tutorial/Project_Timeline.html",
+      "relativePath": "web3modal-vue-tutorial/Project_Timeline.md",
+      "key": "v-39e8b6c0",
+      "path": "/web3modal-vue-tutorial/Project_Timeline.html"
     },
     {
       "title": "Plot NFT - BlockForge Documentation",
@@ -308,34 +285,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "Staking Battle Pass - BlockForge Documentation",
-      "frontmatter": {
-        "title": "Staking Battle Pass - BlockForge Documentation",
-        "pageClass": "content-page-class-general"
-      },
-      "regularPath": "/web3modal-vue-tutorial/Staking_Battle_Pass.html",
-      "relativePath": "web3modal-vue-tutorial/Staking_Battle_Pass.md",
-      "key": "v-6793ac62",
-      "path": "/web3modal-vue-tutorial/Staking_Battle_Pass.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Staked VS. Non-Staked Battle Pass",
-          "slug": "staked-vs-non-staked-battle-pass"
-        },
-        {
-          "level": 2,
-          "title": "How to Stake",
-          "slug": "how-to-stake"
-        },
-        {
-          "level": 2,
-          "title": "How to Unstake",
-          "slug": "how-to-unstake"
-        }
-      ]
-    },
-    {
       "title": "Foreward",
       "frontmatter": {
         "title": "Foreward",
@@ -366,6 +315,62 @@ export const siteData = {
           "level": 2,
           "title": "Minimum Renting Duration",
           "slug": "minimum-renting-duration"
+        }
+      ]
+    },
+    {
+      "title": "Arenas - BlockForge Documentation",
+      "frontmatter": {
+        "title": "Arenas - BlockForge Documentation",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/web3modal-vue-tutorial/Related.html",
+      "relativePath": "web3modal-vue-tutorial/Related.md",
+      "key": "v-85510128",
+      "path": "/web3modal-vue-tutorial/Related.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Resource Arena",
+          "slug": "resource-arena"
+        },
+        {
+          "level": 2,
+          "title": "Duel Arena",
+          "slug": "duel-arena"
+        },
+        {
+          "level": 2,
+          "title": "Quest Arena",
+          "slug": "quest-arena"
+        }
+      ]
+    },
+    {
+      "title": "Staking Battle Pass - BlockForge Documentation",
+      "frontmatter": {
+        "title": "Staking Battle Pass - BlockForge Documentation",
+        "pageClass": "content-page-class-general"
+      },
+      "regularPath": "/web3modal-vue-tutorial/Staking_Battle_Pass.html",
+      "relativePath": "web3modal-vue-tutorial/Staking_Battle_Pass.md",
+      "key": "v-6793ac62",
+      "path": "/web3modal-vue-tutorial/Staking_Battle_Pass.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Staked VS. Non-Staked Battle Pass",
+          "slug": "staked-vs-non-staked-battle-pass"
+        },
+        {
+          "level": 2,
+          "title": "How to Stake",
+          "slug": "how-to-stake"
+        },
+        {
+          "level": 2,
+          "title": "How to Unstake",
+          "slug": "how-to-unstake"
         }
       ]
     },
@@ -426,10 +431,6 @@ export const siteData = {
       {
         "text": "Web3Modal-Vue Tutorial",
         "link": "/web3modal-vue-tutorial/"
-      },
-      {
-        "text": "Related Tutorials",
-        "link": "/web3modal-vue-tutorial/related"
       }
     ],
     "sidebar": [
@@ -440,16 +441,6 @@ export const siteData = {
           [
             "/web3modal-vue-tutorial/Contents",
             "Contents"
-          ]
-        ]
-      },
-      {
-        "title": "Related",
-        "collapsable": false,
-        "children": [
-          [
-            "/web3modal-vue-tutorial/Related",
-            "Related"
           ]
         ]
       }
